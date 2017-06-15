@@ -1,0 +1,1 @@
+webpackJsonp([4],{442:function(n,r,e){var t=e(38)(null,e(452),null,null,null);n.exports=t.exports},452:function(n,r){n.exports={render:function(){var n=this,r=n.$createElement,e=n._self._c||r;return e("div",[n._v("\r\n\r\nUser \r\n\r\n"),e("div",[n._v("\r\n"+n._s(n.$store.getters["user/get"])+"\r\n")])])},staticRenderFns:[]}}});
